@@ -3,8 +3,8 @@ A program for anyone curious about their Instagram statistics.
 
 Instructions:
 1. Run 'pip install requirements.txt'
-2. Edit credentials in instagram.py
-3. Edit target_user in instagram.py
+2. Edit credentials (username, password) in instagram.py
+3. Edit target_username in instagram.py
 4. Run instagram.py
 
 This program allows you to check:
