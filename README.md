@@ -13,6 +13,6 @@ This program allows you to check:
 3. [Open to suggestions on how you think I can expand this program.]
 
 Do note that:
-- Use a throwaway account to avoid suspension as Instagram tracks suspicious log in activity.
+- Use a throwaway account to avoid suspension as Instagram tracks suspicious log in activity, and this account cannot have 2FA activated as the program cannot bypass 2FA.
 - In order to search up users, the target_username must either be a public profile, or the logged in account must be following the target_username.
 - If you encounter an error, just log in via the app once for verification.
