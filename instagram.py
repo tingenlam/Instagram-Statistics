@@ -10,7 +10,7 @@ ssl._create_default_https_context = ssl._create_unverified_context
 
 api = Client(username, password)
 
-target_username = 'lamtingen' # User must be public or username must be following target_username.
+target_username = '' # User must be public or username must be following target_username.
 user_id = api.username_info(target_username)['user']['pk']
 print("Account: @",target_username)
 
