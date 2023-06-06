@@ -16,4 +16,4 @@ Do note that:
 - Use a throwaway account to avoid suspension as Instagram tracks suspicious log in activity.
 - The logged in account cannot have 2FA activated as the program cannot bypass 2FA.
 - In order to search up users, the target_username must either be a public profile, or the logged in account must be following the target_username.
-- If you encounter an error, just log in via the app once for verification.
+- If you encounter a 'ClientChallengeRequiredError' error, just log in via the app once for verification.
