@@ -1,5 +1,5 @@
 # Instagram-Statistics
-A program for anyone curious about their Instagram statistics.
+A program for anyone curious about a user's Instagram statistics.
 
 Instructions:
 1. Run 'pip install -r requirements.txt'
